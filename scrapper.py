@@ -7,6 +7,8 @@
 
 # changing things now and then
 
+# it is alpha branch now
+
 import requests
 import csv
 import time
