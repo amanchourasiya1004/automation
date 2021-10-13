@@ -5,6 +5,8 @@
 
 # make sure you have python3 installed in your system
 
+# changing things now and then
+
 import requests
 import csv
 import time
